@@ -32,8 +32,9 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
     /* biến nó thành đối tượng không phụ thuộc và muốn dịch đi đâu tùy ý */
+    transition: flex 0.7s ease-in;
+
 }
 
 .panel h3 {
